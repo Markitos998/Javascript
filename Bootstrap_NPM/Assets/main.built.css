@@ -1,0 +1,21 @@
+:root {
+  box-sizing: border-box;
+}
+
+*, ::before, ::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.58);
+  margin: 0;
+  color: white;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 1.2em 1.8em;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uc2NzcyIsIm1haW4uYnVpbHQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0Usc0JBQUE7QUNDRjs7QURFQTtFQUNFLG1CQUFBO0FDQ0Y7O0FERUE7RUFDRSxxQ0FBQTtFQUNBLFNBQUE7RUFDQSxZQUFBO0FDQ0Y7O0FERUE7RUFDRSxhQUFBO0VBQ0Esc0JBQUE7RUFFQSxtQkFBQTtBQ0FGIiwiZmlsZSI6Im1haW4uYnVpbHQuY3NzIn0= */
